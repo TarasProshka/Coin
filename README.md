@@ -1,3 +1,11 @@
+Инструкция по запуску
+
+В папке client и server в каждой выполните команду npm i
+
+В папке server выполните команду npm start для запуска сервера
+
+В папке client выполните команду npm run dev, после чего откройте проект на 8080 порту
+
 Авторизация 
 
 ![Screenshot_1](https://user-images.githubusercontent.com/111509370/226927263-37b7533b-07ad-4ec0-890b-85929aa18aeb.png)
