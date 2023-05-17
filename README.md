@@ -6,6 +6,12 @@
 
 В папке client выполните команду npm run dev, после чего откройте проект на 8080 порту
 
+Логин: developer
+Пароль: skillbox
+
+
+
+
 Авторизация 
 
 ![Screenshot_1](https://user-images.githubusercontent.com/111509370/226927263-37b7533b-07ad-4ec0-890b-85929aa18aeb.png)
